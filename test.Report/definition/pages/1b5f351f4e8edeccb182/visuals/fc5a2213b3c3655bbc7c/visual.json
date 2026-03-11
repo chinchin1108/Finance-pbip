@@ -10,7 +10,7 @@
     "tabOrder": 6
   },
   "visual": {
-    "visualType": "tableEx",
+    "visualType": "funnel",
     "drillFilterOtherVisuals": true
   }
 }

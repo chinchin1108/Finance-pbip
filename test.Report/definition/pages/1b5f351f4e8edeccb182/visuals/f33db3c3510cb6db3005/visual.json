@@ -10,7 +10,7 @@
     "tabOrder": 3
   },
   "visual": {
-    "visualType": "decompositionTreeVisual",
+    "visualType": "barChart",
     "drillFilterOtherVisuals": true
   }
 }
